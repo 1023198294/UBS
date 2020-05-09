@@ -1,0 +1,3 @@
+ratings.dat -- https://grouplens.org/datasets/movielens/
+ratings_Beauty.csv -- http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/
+ratings_Toys_and_Games.csv -- http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/
